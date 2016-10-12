@@ -1,0 +1,1 @@
+# sb-jpa-client-only
